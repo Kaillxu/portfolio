@@ -1,0 +1,9 @@
+body{
+	animation: fadein 1.5s;
+}
+
+/* Fadin effect */
+@keyframes fadein {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
